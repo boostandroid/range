@@ -4,5 +4,6 @@ cc_library_headers {
     vendor_available: true,
     header_libs: [
         "libboost_iterator",
+        "libboost_concept_check",
     ],
 }
